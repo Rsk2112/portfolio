@@ -12,7 +12,7 @@ img{
 body{
     font-family:'Poppins', sans-serif;
         /* background-color: black; */
-        background-image: url(../image/Background\ Pattern.png);
+        background-image: url(../image/Background\ Pattern.webp);
         background-size: cover;
         /* height: 100vh; */
 
@@ -74,7 +74,7 @@ body{
     border: 1px solid brown;
     padding: 15rem;
     background-color: aliceblue;
-    background-image: url(../image/21004063-[Converted].png);
+    background-image: url(../image/21004063-[Converted].webp);
     background-repeat: no-repeat;
     background-size: contain;
     border-radius: 50%;  
